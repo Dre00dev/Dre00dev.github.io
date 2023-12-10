@@ -1,6 +1,6 @@
-# Dre00dev
+# Developer Portfolio Website
 
-Welcome to my developer portfolio! This repository contains the code for developer portfolio website. To view my portfolio website, please click on the following link:
+Welcome to my developer portfolio! This repository contains the code for my developer portfolio website. To view my portfolio, please click on the following link:
 
 [Link to my portfolio](https://dre00dev.github.io/)https://dre00dev.github.io/
 
